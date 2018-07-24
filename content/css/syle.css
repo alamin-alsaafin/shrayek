@@ -1,0 +1,26 @@
+@font-face {
+    font-family: DroidKufi-Bold;
+    src: url(../fonts/DroidKufi-Bold.ttf);
+}
+body
+{
+	font-family: DroidKufi-Bold;
+}
+.container-main
+{
+	background:url(../images/BG.jpg);
+	width: 1360px;
+	background-repeat: no-repeat;
+	padding-left: 150px;
+	height: 100%;
+}
+/* when title very fuck big 
+    position: absolute;
+    color: #fff;
+    top: 5%;
+    right: 38.5%;
+    width: 50%;
+    text-align: center;
+    text-shadow: 0 0 1px #000;
+
+*/
